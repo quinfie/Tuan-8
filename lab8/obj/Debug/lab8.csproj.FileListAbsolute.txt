@@ -1,0 +1,10 @@
+D:\Năm ba hk1\Công nghệ .net\lab8\lab8\bin\Debug\lab8.exe.config
+D:\Năm ba hk1\Công nghệ .net\lab8\lab8\bin\Debug\lab8.exe
+D:\Năm ba hk1\Công nghệ .net\lab8\lab8\bin\Debug\lab8.pdb
+D:\Năm ba hk1\Công nghệ .net\lab8\lab8\obj\Debug\lab8.Form1.resources
+D:\Năm ba hk1\Công nghệ .net\lab8\lab8\obj\Debug\lab8.Properties.Resources.resources
+D:\Năm ba hk1\Công nghệ .net\lab8\lab8\obj\Debug\lab8.csproj.GenerateResource.Cache
+D:\Năm ba hk1\Công nghệ .net\lab8\lab8\obj\Debug\lab8.exe
+D:\Năm ba hk1\Công nghệ .net\lab8\lab8\obj\Debug\lab8.pdb
+D:\Năm ba hk1\Công nghệ .net\lab8\lab8\obj\Debug\lab8.csprojResolveAssemblyReference.cache
+D:\Năm ba hk1\Công nghệ .net\lab8\lab8\obj\Debug\lab8.Form_Khoa.resources
